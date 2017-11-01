@@ -1,0 +1,11 @@
+---
+ practice.txt |    2 	1 +	1 -	0 !
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+Index: b/practice.txt
+===================================================================
+--- a/practice.txt
++++ b/practice.txt
+@@ -1 +1 @@
+-test A
++test B lxf
