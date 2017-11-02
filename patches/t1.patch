@@ -1,0 +1,14 @@
+changes made is in my git training!
+
+---
+ practice.txt |    2 	2 +	0 -	0 !
+ 1 file changed, 2 insertions(+)
+
+Index: b/practice.txt
+===================================================================
+--- a/practice.txt
++++ b/practice.txt
+@@ -1 +1,3 @@
+ practice C by <lxf>
++
++t1.patch edit! lxf

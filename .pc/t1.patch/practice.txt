@@ -1,3 +1,1 @@
 practice C by <lxf>
-
-t1.patch edit! lxf
