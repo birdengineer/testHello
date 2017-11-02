@@ -2,4 +2,3 @@ practice C by <lxf>
 
 t1.patch edit! lxf
 t2.patch edit! lxf
-t2.patch edit! lxf

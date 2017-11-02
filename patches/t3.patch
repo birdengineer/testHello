@@ -1,0 +1,14 @@
+t3.patch adding
+---
+ practice.txt |    1 	1 +	0 -	0 !
+ 1 file changed, 1 insertion(+)
+
+Index: b/practice.txt
+===================================================================
+--- a/practice.txt
++++ b/practice.txt
+@@ -2,3 +2,4 @@ practice C by <lxf>
+ 
+ t1.patch edit! lxf
+ t2.patch edit! lxf
++t2.patch edit! lxf
